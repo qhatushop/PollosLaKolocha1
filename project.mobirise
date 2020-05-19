@@ -37,7 +37,10 @@
     "siteFonts": [],
     "uniqCompNum": 35,
     "versionPublish": "4.10.15",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "mcShopcart": {
+      "email": "mguevararojas@gmail.com"
+    }
   },
   "pages": {
     "index.html": {
@@ -2409,12 +2412,12 @@
                 "onSale": false,
                 "oldPrice": false,
                 "itemTitle": "Gafas marrones",
-                "itemDescription": "Zapatos casuales (contáctenos para determinar la talla)<br><br><ul><li>Tejido ligero texturizado</li> <li>Cuello en v redondeado</li> <li>Adornos pom pom</li> <li>Ajuste regular - fiel a su tamaño</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br>Product code: <b>385DDF5p</b>",
+                "itemDescription": "Zapatos casuales (contáctenos para determinar la talla)<br><br><ul><li>Tejido ligero texturizado</li> <li><br></li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis.&nbsp;<br><br>Product code: <b>385DDF5p</b>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "$30",
                 "oldPriceValue": "$60",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">¡Comprar ahora!</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=1.0&item_name=Custom+Item&currency_code=USD\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7\">¡Comprar ahora!</a>",
                 "image": "@PROJECT_PATH@/assets/images/shop0.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/shop0.jpg",
                 "customStyle5": "display-5",
